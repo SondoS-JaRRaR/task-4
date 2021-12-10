@@ -1,0 +1,108 @@
+
+body{
+   height: 1200px;
+}
+.modern{
+background-color: #F4F4F4;
+height: 450px;
+
+
+}
+.contaner{
+    width: 90%;
+    margin: auto;
+}
+.modern-desc {
+width: 60%;
+float: left;
+padding: 50px 30px ;
+box-sizing: border-box;
+}
+.modern-desc h2 {
+    color: #676767 ;
+    font-family: "Kanit", sans-serif;
+    letter-spacing: 5px;
+    font-weight: 100;
+}
+.modern-desc p { 
+line-height: 30px;
+color: #838383;
+margin-top: 45px;
+letter-spacing: 1px;
+
+
+}
+.modern-desc button {
+    background-color: black;
+    color: white;
+    border: 0;
+    padding: 10px 20px;
+    margin-top:20px ;
+  
+}
+.modern-screen{
+width: 40%;
+float: left;
+
+}
+.w-100{
+
+width: 100%;
+
+}
+.clr{
+    clear : both ; 
+
+}
+
+.services p{
+  color:#868686 ; 
+  line-height: 28px;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+
+}
+
+.services h2{
+    color: #555555;
+    font-weight: 100;
+    margin-bottom: 40px;
+letter-spacing: 5px ;
+font-family: Kanit, sans-serif;}
+
+.services{
+    
+    padding-top: 100px;
+text-align: center;
+width: 90%;
+margin: auto;
+}
+
+.items{
+overflow: auto;
+}
+
+.service-item img{
+    width: 30%;
+}
+.service-item p{
+
+color: #9F9F9F;
+letter-spacing: 1px;
+font-weight: 100;
+line-height: 25px;
+}
+.service-item h3{
+    color: #676767;
+    letter-spacing: 3px;
+    font-family: Kanit, sans-serif;
+    font-weight: 100;
+}
+.service-item{
+    margin-top: 20px;
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
